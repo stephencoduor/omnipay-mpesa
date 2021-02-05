@@ -1,5 +1,5 @@
 {
-    "name": "wasksofts/omnipay-mpesa",
+    "name": "coduor/omnipay-mpesa",
     "type": "library",
     "description": "lipa na mpesa omnipay gateway",
     "keywords": [
